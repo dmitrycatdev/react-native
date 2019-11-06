@@ -1,0 +1,1 @@
+export const replaceWithAstriks = text => Array(text.length).fill('*').join('')
